@@ -1,0 +1,32 @@
+commit 1efa2ebc38c2f2530b8d0c9b4c52b2eb12de8aaa
+Author: Ecem Erikli <efe7@njit.edu>
+Date:   Tue Mar 10 02:46:09 2026 -0400
+
+    Revert "Added notes text file"
+    
+    This reverts commit 375ee0368057f3c134dfa79130094ceea8189270.
+
+commit 375ee0368057f3c134dfa79130094ceea8189270
+Author: Ecem Erikli <efe7@njit.edu>
+Date:   Tue Mar 10 02:14:00 2026 -0400
+
+    Added notes text file
+
+commit feea84194cb804714b23db8b7461e507dbcc0ea1
+Author: Ecem Erikli <efe7@njit.edu>
+Date:   Tue Mar 10 02:11:38 2026 -0400
+
+    Updated hostname with custom change
+
+commit 9315a7d633e765ed2a033c6a84643e3a0d3c8973
+Author: Ecem Erikli <efe7@njit.edu>
+Date:   Sun Mar 8 20:23:41 2026 -0400
+
+    Updated os-release file with branch message
+
+commit 10d9867314ab6b90f89727e67ed285f810a635e3
+Author: Ecem Erikli <efe7@njit.edu>
+Date:   Sun Mar 8 17:59:46 2026 -0400
+
+    Initial commit
+    Initial starting point of the repository
